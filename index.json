@@ -1,0 +1,11 @@
+{
+  "org": "mozilla",
+  "repo": "mp4parse-rust",
+  "versions": [
+    {
+      "commit": "e133798fb00969cad0561f0e92291d2d02803497",
+      "tag": "v0.12.0",
+      "parsed_at": "2026-11-23T04:48:36.747013+00:00"
+    }
+  ]
+}
